@@ -1,4 +1,4 @@
 # Scala Kata
 
-A Repo to practice Scala syntax
+A Repo to practice Scala
 
